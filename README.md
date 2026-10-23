@@ -1,4 +1,4 @@
-# Daora Kids v3.2.3 📺🍿
+# Zion Club v3.2.3 📺🍿
 
 Sistema de Streaming Kids 24/7 (Raspberry Pi 3 ou superior) - Blindado e Totalmente Remoto.
 
